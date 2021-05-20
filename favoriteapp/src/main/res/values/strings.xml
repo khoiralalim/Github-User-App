@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="name">Name</string>
+    <string name="uname">Username</string>
+    <string name="example_name">Name</string>
+    <string name="rep">Repository </string>
+    <string name="info_detail" translatable="false">%1$s | %2$s</string>
+    <string name="daily_reminder">Daily Reminder 09.00 AM</string>
+    <string name="notification">Notification Now</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="repeatsuccess">Repeating Alarm Has Successfully</string>
+    <string name="RepeatCancel">Canceled Alarm</string>
+    <string name="reminder">Reminder</string>
+    <string name="DetailUser">Detail User</string>
+    <string name="DeleteFav">Deleted from favorites</string>
+    <string name="addfav">Successfully Added To Favorites</string>
+    <string name="favuser">Favorite User</string>
+    <string name="change_language">Change Language</string>
+    <string name="find_username">Find Username</string>
+    <string-array name="tab_title">
+        <item>Followers</item>
+        <item>Following</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submisi</string>
+    <string name="settings">Pengaturan</string>
+    <string name="favorite">Favorit</string>
+    <string name="name">Nama</string>
+    <string name="uname">Nama User</string>
+    <string name="example_name">Nama</string>
+    <string name="daily_reminder">Pengingat Harian 09.00 Pagi</string>
+    <string name="notification">Notifikasi Sekarang</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="repeatsuccess">Alarm Berhasil Diulang</string>
+    <string name="RepeatCancel">Membatalkan Alarm</string>
+    <string name="reminder">Pengingat</string>
+    <string name="DetailUser">Detail Pengguna</string>
+    <string name="DeleteFav">Dihapus dari Favorit\</string>
+    <string name="addfav">Ditambahkan ke Favorit</string>
+    <string name="favuser">Pengguna Favoritr</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="find_username">Cari Nama User</string>
+    <string-array name="tab_title">
+        <item>Pengikut</item>
+        <item>Mengikuti</item>
+    </string-array>
+</resources>
